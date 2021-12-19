@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Bahadır Furkan Akgül</h1>
-<h3 align="center">I'm a Software Test Engineer working in Ankara and a Computer Science Master's Student at Baskent University</h3>
+<h3 align="center">I'm a Software Test Engineer working in Ankara and also MSc Student at Baskent University</h3>
 
 - 🌱 I’m currently learning **Node.js with Patika.dev**
 
