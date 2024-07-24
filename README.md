@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bahadır Furkan Akgül</h1>
 <h3 align="center">I'm a Software Engineer working at Getir</h3>
-<h3 align="center">And a Master's Student in Computer Science at Baskent University<h3>
 
 - 📫 How to reach me **furkan.akgul.dev@gmail.com**
 
